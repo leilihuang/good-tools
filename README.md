@@ -33,6 +33,8 @@
 # 学习论坛
 * [百度FEX](http://fex.baidu.com/)
 * [奇舞周刊](https://weekly.75team.com/)
+* [腾讯前端团队blog](http://www.alloyteam.com/)
+* [阿里国际UED](http://www.aliued.com/)
 
 <br>
 <br>
